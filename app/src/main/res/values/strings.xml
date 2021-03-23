@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">demo_mvp</string>
+
+    <string name="data_not_available">Data Not Available.!</string>
+    <string name="request_timeout">Request Timeout</string>
+    <string name="fail_to_connect_server">Fail to connect server.</string>
+    <string name="early_hints">Early Hints</string>
+    <string name="service_unavailable">Service Unavailable.</string>
+    <string name="created">Created</string>
+    <string name="accepted">Accepted</string>
+    <string name="non_authoritative_information">Non-Authoritative Information</string>
+    <string name="reset_content">Reset Content</string>
+    <string name="partial_content">Partial Content</string>
+    <string name="multiple_choices">Multiple Choices</string>
+    <string name="moved_permanently">Moved Permanently</string>
+    <string name="found">Found</string>
+    <string name="see_other">See Other</string>
+    <string name="not_modified">Not Modified</string>
+    <string name="temporary_redirect">Temporary Redirect</string>
+    <string name="permanent_redirect">Permanent Redirect</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="payment_required">Payment Required</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="method_not_allowed">Method Not Allowed</string>
+    <string name="not_acceptable">Not Acceptable</string>
+    <string name="proxy_authentication_required">Proxy Authentication Required</string>
+    <string name="gone">Gone</string>
+    <string name="length_required">Length Required</string>
+    <string name="precondition_failed">Precondition Failed</string>
+    <string name="payload_too_large">Payload Too Large</string>
+    <string name="uri_too_long">URI Too Long</string>
+    <string name="unsupported_media_type">Unsupported Media Type</string>
+    <string name="range_not_satisfiable">Range Not Satisfiable</string>
+    <string name="expectation_failed">Expectation Failed</string>
+    <string name="im_a_teapot">I\'m a teapot</string>
+    <string name="un_processable_entity">Un-Processable Entity</string>
+    <string name="too_early">Too Early</string>
+    <string name="upgrade_required">Upgrade Required</string>
+    <string name="precondition_required">Precondition Required</string>
+    <string name="too_many_requests">Too Many Requests</string>
+    <string name="request_header_fields_too_large">Request Header Fields Too Large</string>
+    <string name="unavailable_for_legal_reasons">Unavailable For Legal Reasons</string>
+    <string name="not_implemented">Not Implemented</string>
+    <string name="bad_gateway">Bad Gateway</string>
+    <string name="gateway_timeout">Gateway Timeout</string>
+    <string name="http_version_not_supported">HTTP Version Not Supported</string>
+
+    <string name="something_went_wrong_please_try_again">Something went wrong please try again.</string>
+
+    <string name="switching_protocols">Switching Protocols</string>
+    <string name="continues">Continue</string>
+
+</resources>

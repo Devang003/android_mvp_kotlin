@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="get_location" translatable="false">http://ip-api.com/json/</string>
+
+    <string name="main_url_local" translatable="false">http://123.253.12.155:9031/</string>
+    <string name="main_url_live" translatable="false">http://123.253.12.155:9031/</string>
+
+    <!--
+
+    http://10.68.101.31:9031/ - local-meet
+    http://10.68.101.18:9031/ - local-final
+    http://192.168.137.205:9031/ - local-harshit
+    http://103.53.165.109:9031/ - stage
+    http://123.253.12.155:9031/ - stage-new
+    -->
+
+    <string-array name="headers">
+        <item>Content-Type</item>
+        <item>application/json</item>
+        <item>Accept-Language</item>
+        <item>X-Auth-Token</item>
+        <item>Social-Token</item>
+        <item>latitude</item>
+        <item>longitude</item>
+        <item>Device-Key</item>
+        <item>Device-Type</item>
+        <item>X-Device-Token</item>
+        <item>Accept-Currency</item>
+    </string-array>
+
+    <string-array name="login_array">
+        <item>client/web/v1/user/login</item>
+        <item>email</item>
+        <item>password</item>
+        <item>device_type</item>
+        <item>device_token</item>
+        <item>notification_token</item>
+    </string-array>
+
+
+</resources>
